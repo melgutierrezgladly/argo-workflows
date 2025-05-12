@@ -93,7 +93,7 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [Gepardec](https://gepardec.com/)
 1. [GitHub](https://github.com/)
 1. [Gitpod](https://www.gitpod.io/)
-1. [Gladly](https://gladly.com/)
+1. [Gladly](https://www.gladly.ai/)
 1. [Gllue](https://gllue.com/)
 1. [Glovo](https://www.glovoapp.com)
 1. [Google](https://www.google.com/intl/en/about/our-company/)
